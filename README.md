@@ -126,7 +126,8 @@ AI_ProblemSolving_RA2411026050011/ │ ├── Problem_1_TicTacToe/ │   ├�
 #  Installation & Execution
 
 ### 1️⃣ Clone Repository
-git clone https://github.com/<your-username>/AI_ProblemSolving_RA2411026050011.git cd AI_ProblemSolving_RA2411026050011
+git clone https://github.com/priyan-inspires/AI_ProblemSolving_RA2411026050011.git
+cd AI_ProblemSolving_RA2411026050011
 
 ### 2️⃣ Install Dependencies
 pip install -r requirements.txt
